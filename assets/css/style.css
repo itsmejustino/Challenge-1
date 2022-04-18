@@ -1,17 +1,16 @@
 
-/* Universal selector for page position */
+/* === START Universal selector for page position === */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+/* === END Universal selector for page position === */
 
-/* -- Start grouped selectors-- */
-
+/* === START grouped selectors === */
 body {
     background-color: #d9dcd6; /* full page font color */
 }
-
 
 a {
     color: #ffffff;
@@ -31,20 +30,21 @@ h2 {
     margin-bottom: 20px;
     font-size: 36px;
  }
+
 li {
     display: inline-block;
     margin-left: 25px;
     list-style-type: none;
     }
     
-img {
+img {/* image height for all but hero */
         max-height: 200px;
     }
-    
+/*=== END grouped selectors === */
 
-/*-- End grouped selectors-- */
+/* ===START Class Selectors=== */
 
-
+/* --- START Nav bar styling--- */
 .header { 
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -52,9 +52,8 @@ img {
     color: #ffffff;
 }
 
-
-.header h1 .seo {
-    color: #d9dcd6;
+.seo {
+    color: #d9dcd6; /* seo in Horiseon color */
 }
 
 .header-div { /* Nav bar responsive up to 1023 width */
@@ -64,9 +63,10 @@ img {
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
+/* --- END Nav bar styling--- */
 
 
-.hero {
+.hero { /* Meeting photo styling below Nav bar */
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -75,17 +75,18 @@ img {
     background-position: center;
 }
 
-.float-left {
+/*---START Content div Styling---*/
+.float-left {/*content image display left*/
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+.float-right {/*content image display right*/
     float: right;
     margin-left: 25px;
 }
 
-.content {
+.content { /*---Content box---*/
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -99,7 +100,7 @@ img {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*---END Content div Styling---*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -111,6 +112,8 @@ img {
     background-color: #2589bd;
 }
 
+/*---START Benefits div Styling---*/
+
 .benefits-section {
     margin-bottom: 32px;
     color: #ffffff;
@@ -119,12 +122,15 @@ img {
     margin-bottom: 10px;
     text-align: center;
 }
+/*---END Benefits div Styling---*/
+
 .sidebar-img{
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*---START footer Styling---*/
 .footer {
     padding: 30px;
     clear: both;
@@ -135,3 +141,5 @@ img {
 .footer h2 {
     font-size: 20px;
 }
+/*---END footer Styling---*/
+/*=== END Class Selectors === */
