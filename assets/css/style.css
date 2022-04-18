@@ -1,4 +1,3 @@
-
 /* === START Universal selector for page position === */
 * {
     box-sizing: border-box;
@@ -57,7 +56,7 @@ img {/* image height for all but hero */
     color: #d9dcd6; /* seo in Horiseon color */
 }
 
-.header-div { /* Nav bar responsive up to 1023 width */
+.header-container { /* Nav bar responsive up to 1023 width */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
