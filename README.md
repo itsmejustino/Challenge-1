@@ -12,7 +12,7 @@ Applying best practices to HTML and CSS markup to optimize codebase in order to 
 
 # Deployed Website URL
 
-Horiseon Marketing Website link : https://itsmejustino.github.io/Challenge-1/
+Horiseon Marketing Website link : https://itsmejustino.github.io/SEOoptimization/
 
 
 ---
