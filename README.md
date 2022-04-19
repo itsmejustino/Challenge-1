@@ -5,7 +5,8 @@ This website contains information on the company Horiseon. This will be a source
 
 # My Changes 
 
-
+# Website Preview
+![Website Preview image](https://https://courses.bootcampspot.com/courses/1391/files/1509506/preview)
 
 
 ## Grading Requirements
