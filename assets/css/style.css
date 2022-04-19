@@ -45,7 +45,7 @@ img {/* image height for all but hero */
 /* ===START Class Selectors=== */
 
 /* --- START Nav bar styling--- */
-.header { 
+.header-box { 
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
