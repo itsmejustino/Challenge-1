@@ -4,7 +4,7 @@ This website contains information on the company Marketing Company Horiseon. Thi
 
 # Working on
 
-Applying best practices to HTML and CSS to optimize codebase in order improve seo performance and accessibility.
+Applying best practices to HTML and CSS markup to optimize codebase in order to improve seo performance and accessibility.
 
 
 # Website Feature Preview
