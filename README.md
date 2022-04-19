@@ -2,7 +2,10 @@
 
 This website contains information on the company Marketing Company Horiseon. This highlights the company's business mission and goals. 
 
-# My Changes 
+# Working on
+
+Applying best practices to HTML and CSS to optimize codebase in order improve seo performance and accessibility.
+
 
 # Website Feature Preview
 ![Website Preview image](https://github.com/itsmejustino/Challenge-1/tree/master/assets/images/Website%20Preview.png)
