@@ -6,6 +6,9 @@ This website contains information on the company Marketing Company Horiseon. Thi
 
 Applying best practices to HTML and CSS markup to optimize codebase in order to improve seo performance and accessibility.
 
+# Made With
+
+HMTL and CSS
 
 # Website Feature Preview
 ![Website Preview image](https://github.com/itsmejustino/Challenge-1/tree/master/assets/images/Website%20Preview.png)
