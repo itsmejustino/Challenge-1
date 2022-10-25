@@ -1,8 +1,8 @@
 # Horiseon Marketing Website
 
-This website contains information on the company Marketing Company Horiseon. This highlights the company's business mission and goals. 
+This website contains information on the company Marketing Company Horiseon. This highlights the company's business mission and goals.This website serves to show an example of how to apply SEO to an web app by using best practices for accessbility within HTML. 
 
-# Working on
+# Description
 
 Applying best practices to HTML and CSS markup to optimize codebase in order to improve seo performance and accessibility.
 
