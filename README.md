@@ -11,7 +11,7 @@ Applying best practices to HTML and CSS markup to optimize codebase in order to 
 HMTL and CSS
 
 # Website Feature Preview
-(https://github.com/itsmejustino/Challenge-1/tree/master/assets/images/Website%20Preview.png)
+![website Demo](https://github.com/itsmejustino/Challenge-1/tree/master/assets/images/Website%20Preview.png)
 
 # Deployed Website URL
 
